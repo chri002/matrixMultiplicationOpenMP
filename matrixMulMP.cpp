@@ -53,6 +53,7 @@ const int NTHR = 8;
 #define M 100
 #endif
 #ifdef DEBUG
+#define STEP
 #define NS
 #define C
 #define VISAB
