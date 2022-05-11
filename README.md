@@ -9,7 +9,7 @@
   DEBUG   : show all
   TEST    : execute multiplication and save the output into txt file
   FILEOUT : export into txt file the output matrix
-  NTHR  	 : thread count for moltiplication
+  NTHR    : thread count for moltiplication
   N       : number of rows
   M       : number of coloums
   MIFN    : memory info 
